@@ -8,7 +8,7 @@
 		<version>2.4.8</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.arsana.mdw</groupId>
+	<groupId>com.online.test</groupId>
 	<artifactId>online-test05</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>online-test</name>
@@ -41,18 +41,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
-		<dependency>
-			<groupId>commons-io</groupId>
-			<artifactId>commons-io</artifactId>
-			<version>2.4</version>
-		</dependency>
-		<!-- https://mvnrepository.com/artifact/org.json/json -->
-		<dependency>
-			<groupId>org.json</groupId>
-			<artifactId>json</artifactId>
-			<version>20250107</version>
-		</dependency>
+
 
 	</dependencies>
 
